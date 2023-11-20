@@ -15,3 +15,6 @@ Let's GO
 
 # 2023-11-19
 - "Keep it simple, stupid!"
+
+# 2023-11-20
+- "Today's programming wisdom is to write code that is easy to understand and maintain. This means using clear and descriptive variable names, writing comments to explain complex logic, and structuring your code in a way that makes sense to others who may need to work on it in the future. Remember, code is read much more often than it is written, so invest time in making it readable and understandable."
