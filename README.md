@@ -54,3 +54,6 @@ Another important aspect of programming wise is problem-solving skills. When fac
 
 # 2023-11-30
 - "Keep it simple, stupid!"
+
+# 2023-12-01
+- "Keep it simple, stupid!"
