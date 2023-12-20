@@ -131,3 +131,9 @@ This quote reminds us that optimizing code too early in the development process 
 3. Learn to use debugging tools and understand how they work so that when you encounter errors,you can quickly identify and fix them.  
 4. Stay up-to-date with new programming languages and technologies. Learning new skills can help make you a more valuable asset to your team or organization.   
 5. Don'tsmart-aleck with your knowledge. Always be willing to listen to others' ideas and opinions, as they may have valuable insights that can improve the quality ofyour work .
+
+# 2023-12-20
+- Today's programming wisdom is to always prioritize your time and focus on the most important tasks. This means breaking down your projects into smaller, manageable tasks and prioritizing them based on their impact on your overall goal. By focusing on what matters most, you can efficiently allocate your resources and make better decisions.
+
+Another piece of wisdom involves communicating effectively with your team members. Use clear and concise language, and ensure that everyone understands their role and responsibilities. Be open to feedback and suggestions, as this can lead to a more collaborative and productive work environment. 
+ - 来自Assistant AI
