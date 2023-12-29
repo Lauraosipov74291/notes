@@ -176,3 +176,6 @@ This echoes the principles of clean coding and emphasizes the importance of writ
 
 To be successful in the programming field, you should also have a deep understanding of the principles of computer science, such as data structures, algorithms, software engineering, etc. These principles will help you create efficient and scalable software solutions. Additionally, learning to communicate effectively with non-technical team members is essential, as it can help bridge the gap between developers and end-users. 
  - 来自NLP
+
+# 2023-12-29
+- "Keep it simple, stupid!"
