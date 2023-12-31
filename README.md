@@ -182,3 +182,14 @@ To be successful in the programming field, you should also have a deep understan
 
 # 2023-12-30
 - "Keep it simple, stupid!"
+
+# 2023-12-31
+- Today's programming wisdom is to always prioritize code readability and maintainability. This means writing concise, well-structured, and easy-to-understand code that can be easily modified and expanded upon as needed. To achieve this, follow these best practices:
+
+1. Use clear variable, function,and class names that reflect their purpose and make them easy to identify.
+2. Organize your code into logical, modular blocks that perform a specific task and follow the Single Responsibility Principle.This makes it easier to understand and change the code. 
+3. Follow coding conventions and style guidelines to ensure consistent and cohesive codebase. It also makes code easier on the eyes and reduces the risk of typos.  
+4. Write comments and documentation to explain the purpose, input, output, assumptions, edge cases, etc. of each function or block of code, especially if it' s non-trivial or complex.It helps other developers understand your intent and code faster.   
+5. Refactor and optimize yourcode regularly to remove duplication, inefficiencies, or unnecessary complexity. Doing so will make your software more maintainable and easier for others to work with.    
+6. Learn and use version control systems like Git to track and manage code changes, collaborate with others, revert mistakes,etc. Keeping code organized and easily accessible is crucial for efficient development.     
+7. Stay up-do-date with the latest programming languages, libraries, tools, frameworks, bestpractices, security vulnerabilities, performance optimizations, et al. By staying informed, you can write better code and contribute to the community.
