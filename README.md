@@ -250,3 +250,6 @@ This quote emphasizes that striving to optimize code too early in the developmen
 3. Practice problem-solving: Coding is a skill that improves with practice. Try to solve problems on websites like LeetCode, HackerRank, or Project Euler to improve your problem solving abilities and coding speed. This will also help prepare you for technical interviews.  
 4. Collaborate with others: Developing software is often a team effort. Working with other developers can give you insights into different approaches and best practices. Also, you can learn a lot from the experiences and knowledge of others.   
 5. Give back to the community: Contributing to open-source projects is not only a great way to give back but also helps you build your portfolio and network. By working on projects, You can improve Your skills and gain experience in real-world scenarios.
+
+# 2024-01-11
+- "Keep it simple, stupid!"
