@@ -355,3 +355,10 @@ To be successful in programming, it' s essential to have a deep understanding of
  - 学习新技能。不要害怕尝试新事物，即使它们看起来与你的专业无关。学习新技术可以帮助你更好地理解编程概念，并提高你的问题解决能力。
 - 多实践。编程是一项实践性很强的技能，通过不断地练习和编写代码，你可以更好地掌握编程知识。尝试解决实际问题，参加编程挑战，或者为自己设定一个小项目来提高技能水平。-
 保持好奇心。对新技术和方法保持好奇，不断寻求改进和优化。这将帮助你保持竞争力，并在职业生涯中取得成功。同时，好奇心也有助于培养创新思维，这对于编程领域非常重要。 --------学习新知识。不断学习新知识，跟上技术发展的步伐。阅读相关书籍、博客和论坛，了解行业动态和最佳实践，以便将最新的技术应用到项目中。---保持积极态度。保持积极乐观的态度，对待困难和挑战。当遇到问题时，不要轻易放弃，而是要积极寻求解决方案。这种积极的心态将帮助你更好地应对职业生涯中的挑战和变化。
+
+# 2024-01-31
+- Today's programming wisdom is:
+
+"Premature optimization is the root of all evil." — Donald Knuth
+
+This quote reminds us that while efficiency and optimization are crucial in software development, it's essential to focus on writing clear, correct, and maintainable code first. Trying to optimize too early can lead to unnecessary complexity, harder-to-debug issues, and time wasted on parts of the code that may not significantly impact overall performance. Always measure and understand your program's actual bottlenecks before optimizing.
