@@ -470,3 +470,14 @@ Remember to take breaks throughout the day to clear your mind and refocus. Avoid
 
 # 2024-02-25
 - "Keep it simple, stupid!"
+
+# 2024-02-26
+- Today's programming wisdom is to always prioritize code readability and maintainability. This means writing concise, well-structured, and easy-to-understand code that can be easily modified and expanded as needed. To achieve this, follow these best practices:
+
+1. Use clear variable, function, method, class, module, etc. names that accurately represent their purpose and functionality.
+2. Follow coding conventions and standards for the language and framework you're using. These guidelines exist to ensure consistency and reduce the likelihood of errors. They also make it easier for other developers to understand and work with your code. 
+3. Break your Code into logical, reusable, self-contained units called functions, methods, or classes.This makes your program easier to maintain and expand. It also allows you to focus on one specific task at a time, reducing the risk of getting lost in the code or making unintended changes.  
+4. Comment yourcode. Write concise explanations and dissect your logic to make your intentions clear. Comments should be concise and to the point, not lengthy paragraphs. When in doubt, write a comment. Clear comments can save you time and headaches later on.   
+5. Version control your work. Using tools like Git allows for a transparent and efficient way to track changes, collaborate with others, undo mistakes,and keep a history of your progress. Always commit and push your changes frequently and use branches for experimentation.    
+6. Test yourwork. Writing tests for your functions and methods ensures that they continue to work as expected and reduces the chance of introducing new errors or breaking existing functionality when making changes later. Unit testing is a great way of achieving this.     
+7. Learn from others and share your knowledge. Read other people' s code, participate in open source projects, attend meetups and conferences, read blogs, books, articles,etc. Keep learning and growing as a developer. Sharing your expertise and knowledge with the community is also a valuable wayto improve your skills and stay up-do-date with new technologies and best-practices.
